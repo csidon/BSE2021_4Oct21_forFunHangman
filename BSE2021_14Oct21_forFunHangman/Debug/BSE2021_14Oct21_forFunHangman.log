@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (14Oct21_selfPlayWithArraysAndVectors.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BSE2021_14Oct21_forFunHangman.cpp
+C:\Users\Chris\Desktop\Yoobee\CS103_Oct21\BSE2021_14Oct21_forFunHangman\BSE2021_14Oct21_forFunHangman\BSE2021_14Oct21_forFunHangman.cpp(318,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BSE2021_14Oct21_forFunHangman.vcxproj -> C:\Users\Chris\Desktop\Yoobee\CS103_Oct21\BSE2021_14Oct21_forFunHangman\BSE2021_14Oct21_forFunHangman\Debug\BSE2021_14Oct21_forFunHangman.exe

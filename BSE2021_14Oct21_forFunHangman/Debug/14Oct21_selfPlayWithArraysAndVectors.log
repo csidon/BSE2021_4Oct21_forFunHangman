@@ -1,0 +1,3 @@
+﻿  14Oct21_selfPlayWithArraysAndVectors.cpp
+C:\Users\Chris\OneDrive - UP Education\1 CS103\14Oct21_selfPlayWithArraysAndVectors\14Oct21_selfPlayWithArraysAndVectors\14Oct21_selfPlayWithArraysAndVectors.cpp(318,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  14Oct21_selfPlayWithArraysAndVectors.vcxproj -> C:\Users\Chris\OneDrive - UP Education\1 CS103\14Oct21_selfPlayWithArraysAndVectors\Debug\14Oct21_selfPlayWithArraysAndVectors.exe
